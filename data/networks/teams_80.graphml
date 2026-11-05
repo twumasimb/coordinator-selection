@@ -1,0 +1,1708 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Feida Zhu">
+  <data key="d0">DM</data>
+</node>
+<node id="Andrey Balmin">
+  <data key="d0">DB</data>
+</node>
+<node id="Jun Rao">
+  <data key="d0">DB</data>
+</node>
+<node id="Jun Huan">
+  <data key="d0">DM</data>
+</node>
+<node id="Boulos Harb">
+  <data key="d0">T</data>
+</node>
+<node id="Martin Pál">
+  <data key="d0">T</data>
+</node>
+<node id="John Langford">
+  <data key="d0">AI</data>
+</node>
+<node id="Calisto Zuzarte">
+  <data key="d0">DB</data>
+</node>
+<node id="Avrim Blum">
+  <data key="d0">AI</data>
+</node>
+<node id="David Kempe">
+  <data key="d0">T</data>
+</node>
+<node id="Qiong Luo">
+  <data key="d0">DB</data>
+</node>
+<node id="Joelle Pineau">
+  <data key="d0">AI</data>
+</node>
+<node id="Tao Li">
+  <data key="d0">DM</data>
+</node>
+<node id="Robert E. Schapire">
+  <data key="d0">AI</data>
+</node>
+<node id="Tim Roughgarden">
+  <data key="d0">T</data>
+</node>
+<node id="Berthold Reinwald">
+  <data key="d0">DB</data>
+</node>
+<node id="Jittat Fakcharoenphol">
+  <data key="d0">T</data>
+</node>
+<node id="David E. Simmen">
+  <data key="d0">DB</data>
+</node>
+<node id="Jan Prins">
+  <data key="d0">DM</data>
+</node>
+<node id="Wolfgang Lehner">
+  <data key="d0">DB</data>
+</node>
+<node id="Yun Chi">
+  <data key="d0">DM</data>
+</node>
+<node id="C. Mohan">
+  <data key="d0">DB</data>
+</node>
+<node id="Elliot Anshelevich">
+  <data key="d0">T</data>
+</node>
+<node id="Wei Wang 0010">
+  <data key="d0">DM</data>
+</node>
+<node id="Doina Precup">
+  <data key="d0">AI</data>
+</node>
+<node id="Richard R. Muntz">
+  <data key="d0">DM</data>
+</node>
+<node id="Philip S. Yu">
+  <data key="d0">DM</data>
+</node>
+<node id="Harald Räcke">
+  <data key="d0">T</data>
+</node>
+<node id="Salvatore J. Stolfo">
+  <data key="d0">DM</data>
+</node>
+<node id="Éva Tardos">
+  <data key="d0">T</data>
+</node>
+<node id="Kunal Talwar">
+  <data key="d0">T</data>
+</node>
+<node id="Shie Mannor">
+  <data key="d0">AI</data>
+</node>
+<node id="Wynne Hsu">
+  <data key="d0">DM</data>
+</node>
+<node id="Chao Liu 0001">
+  <data key="d0">DM</data>
+</node>
+<node id="Satinder P. Singh">
+  <data key="d0">AI</data>
+</node>
+<node id="Daphne Koller">
+  <data key="d0">AI</data>
+</node>
+<node id="Aaron Archer">
+  <data key="d0">T</data>
+</node>
+<node id="Yiming Ma">
+  <data key="d0">DM</data>
+</node>
+<node id="Ravi Kumar">
+  <data key="d0">DM</data>
+</node>
+<node id="Alina Beygelzimer">
+  <data key="d0">AI</data>
+</node>
+<node id="Mitsunori Ogihara">
+  <data key="d0">DM</data>
+</node>
+<node id="Sheng Ma">
+  <data key="d0">DM</data>
+</node>
+<node id="Kaidi Zhao">
+  <data key="d0">DM</data>
+</node>
+<node id="Geoffrey J. Gordon">
+  <data key="d0">AI</data>
+</node>
+<node id="David Wingate">
+  <data key="d0">AI</data>
+</node>
+<node id="Maria-Florina Balcan">
+  <data key="d0">AI</data>
+</node>
+<node id="Jon M. Kleinberg">
+  <data key="d0">T</data>
+</node>
+<node id="David A. McAllester">
+  <data key="d0">AI</data>
+</node>
+<node id="Guy M. Lohman">
+  <data key="d0">DB</data>
+</node>
+<node id="Chun Zhang">
+  <data key="d0">DB</data>
+</node>
+<node id="Richard Cole">
+  <data key="d0">T</data>
+</node>
+<node id="Bing Liu">
+  <data key="d0">DM</data>
+</node>
+<node id="Sailesh Krishnamurthy">
+  <data key="d0">DB</data>
+</node>
+<node id="Amit Kumar">
+  <data key="d0">T</data>
+</node>
+<node id="Kevin S. Beyer">
+  <data key="d0">DB</data>
+</node>
+<node id="Aleksandrs Slivkins">
+  <data key="d0">T</data>
+</node>
+<node id="Anupam Gupta">
+  <data key="d0">T</data>
+</node>
+<node id="Hamid Pirahesh">
+  <data key="d0">DB</data>
+</node>
+<node id="Jiawei Han">
+  <data key="d0">DM</data>
+</node>
+<node id="Shariq Rizvi">
+  <data key="d0">DB</data>
+</node>
+<node id="Fatma Özcan">
+  <data key="d0">DB</data>
+</node>
+<node id="Anirban Dasgupta">
+  <data key="d0">T</data>
+</node>
+<node id="Shawn R. Jeffery">
+  <data key="d0">DB</data>
+</node>
+<node id="Yuri Rabinovich">
+  <data key="d0">T</data>
+</node>
+<node id="Chang-Shing Perng">
+  <data key="d0">DM</data>
+</node>
+<node id="Tom Wexler">
+  <data key="d0">T</data>
+</node>
+<node id="Tuomas Sandholm">
+  <data key="d0">AI</data>
+</node>
+<node id="H. Brendan McMahan">
+  <data key="d0">AI</data>
+</node>
+<node id="Sham Kakade">
+  <data key="d0">AI</data>
+</node>
+<node id="Roberta Cochrane">
+  <data key="d0">DB</data>
+</node>
+<node id="Sebastian Thrun">
+  <data key="d0">AI</data>
+</node>
+<node id="Gal Elidan">
+  <data key="d0">AI</data>
+</node>
+<node id="Yishay Mansour">
+  <data key="d0">AI</data>
+</node>
+<node id="Aris Anagnostopoulos">
+  <data key="d0">DM</data>
+</node>
+<node id="Amitabh Sinha">
+  <data key="d0">T</data>
+</node>
+<node id="Mehmet Altinel">
+  <data key="d0">DB</data>
+</node>
+<node id="Chandra Chekuri">
+  <data key="d0">T</data>
+</node>
+<node id="Volker Markl">
+  <data key="d0">DB</data>
+</node>
+<node id="Michael J. Kearns">
+  <data key="d0">AI</data>
+</node>
+<node id="Bruce G. Lindsay">
+  <data key="d0">DB</data>
+</node>
+<edge source="Feida Zhu" target="Volker Markl">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Feida Zhu" target="Bing Liu">
+  <data key="d1">14.626800969016955</data>
+</edge>
+<edge source="Feida Zhu" target="Philip S. Yu">
+  <data key="d1">1.557766479663394</data>
+</edge>
+<edge source="Feida Zhu" target="Wynne Hsu">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Feida Zhu" target="Mitsunori Ogihara">
+  <data key="d1">13.150803264057119</data>
+</edge>
+<edge source="Feida Zhu" target="Jiawei Han">
+  <data key="d1">15.710346806069106</data>
+</edge>
+<edge source="Feida Zhu" target="Wei Wang 0010">
+  <data key="d1">14.563687364528878</data>
+</edge>
+<edge source="Feida Zhu" target="Wolfgang Lehner">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Feida Zhu" target="Andrey Balmin">
+  <data key="d1">13.83501211271197</data>
+</edge>
+<edge source="Andrey Balmin" target="Ravi Kumar">
+  <data key="d1">14.882124187173273</data>
+</edge>
+<edge source="Andrey Balmin" target="Volker Markl">
+  <data key="d1">28.11016192783373</data>
+</edge>
+<edge source="Andrey Balmin" target="Jittat Fakcharoenphol">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Andrey Balmin" target="Wynne Hsu">
+  <data key="d1">27.992541119469585</data>
+</edge>
+<edge source="Andrey Balmin" target="Mitsunori Ogihara">
+  <data key="d1">13.83501211271197</data>
+</edge>
+<edge source="Andrey Balmin" target="Jiawei Han">
+  <data key="d1">15.03130179778146</data>
+</edge>
+<edge source="Andrey Balmin" target="Wei Wang 0010">
+  <data key="d1">14.648316970546983</data>
+</edge>
+<edge source="Andrey Balmin" target="Kevin S. Beyer">
+  <data key="d1">1.4748581537676908</data>
+</edge>
+<edge source="Andrey Balmin" target="Wolfgang Lehner">
+  <data key="d1">28.11016192783373</data>
+</edge>
+<edge source="Andrey Balmin" target="Calisto Zuzarte">
+  <data key="d1">14.801726061456074</data>
+</edge>
+<edge source="Andrey Balmin" target="Berthold Reinwald">
+  <data key="d1">14.712864975137066</data>
+</edge>
+<edge source="Andrey Balmin" target="Hamid Pirahesh">
+  <data key="d1">15.057766479663393</data>
+</edge>
+<edge source="Andrey Balmin" target="Fatma Özcan">
+  <data key="d1">1.475933953844192</data>
+</edge>
+<edge source="Andrey Balmin" target="C. Mohan">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Andrey Balmin" target="Bruce G. Lindsay">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Andrey Balmin" target="Shawn R. Jeffery">
+  <data key="d1">13.83501211271197</data>
+</edge>
+<edge source="Andrey Balmin" target="Guy M. Lohman">
+  <data key="d1">14.35713374984062</data>
+</edge>
+<edge source="Andrey Balmin" target="Mehmet Altinel">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Jun Rao" target="Jon M. Kleinberg">
+  <data key="d1">14.615325768200943</data>
+</edge>
+<edge source="Jun Rao" target="Philip S. Yu">
+  <data key="d1">15.042776998597475</data>
+</edge>
+<edge source="Jun Rao" target="Jiawei Han">
+  <data key="d1">15.025564197373454</data>
+</edge>
+<edge source="Jun Rao" target="Kevin S. Beyer">
+  <data key="d1">14.005705724850182</data>
+</edge>
+<edge source="Jun Rao" target="Guy M. Lohman">
+  <data key="d1">1.45011475200816</data>
+</edge>
+<edge source="Jun Rao" target="Hamid Pirahesh">
+  <data key="d1">14.889296187683282</data>
+</edge>
+<edge source="Jun Rao" target="C. Mohan">
+  <data key="d1">13.952632921076118</data>
+</edge>
+<edge source="Jun Rao" target="Sailesh Krishnamurthy">
+  <data key="d1">26.52371541501976</data>
+</edge>
+<edge source="Jun Rao" target="Fatma Özcan">
+  <data key="d1">13.51370648986357</data>
+</edge>
+<edge source="Jun Rao" target="Shawn R. Jeffery">
+  <data key="d1">13.407560882315439</data>
+</edge>
+<edge source="Jun Huan" target="Ravi Kumar">
+  <data key="d1">28.861787581282663</data>
+</edge>
+<edge source="Jun Huan" target="Tao Li">
+  <data key="d1">28.23925793701389</data>
+</edge>
+<edge source="Jun Huan" target="Philip S. Yu">
+  <data key="d1">43.410907815886766</data>
+</edge>
+<edge source="Jun Huan" target="Jiawei Han">
+  <data key="d1">29.191699604743075</data>
+</edge>
+<edge source="Jun Huan" target="Yun Chi">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Jun Huan" target="Wei Wang 0010">
+  <data key="d1">1.5113636363636362</data>
+</edge>
+<edge source="Jun Huan" target="Wolfgang Lehner">
+  <data key="d1">14.35713374984062</data>
+</edge>
+<edge source="Jun Huan" target="Guy M. Lohman">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Jun Huan" target="Jan Prins">
+  <data key="d1">1.4712721535126865</data>
+</edge>
+<edge source="Boulos Harb" target="David Kempe">
+  <data key="d1">26.52371541501976</data>
+</edge>
+<edge source="Boulos Harb" target="Anirban Dasgupta">
+  <data key="d1">1.5020400357006247</data>
+</edge>
+<edge source="Boulos Harb" target="Tim Roughgarden">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Boulos Harb" target="Harald Räcke">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Martin Pál" target="Avrim Blum">
+  <data key="d1">14.464713757490754</data>
+</edge>
+<edge source="Martin Pál" target="Yishay Mansour">
+  <data key="d1">14.517786561264822</data>
+</edge>
+<edge source="Martin Pál" target="Anirban Dasgupta">
+  <data key="d1">14.005705724850182</data>
+</edge>
+<edge source="Martin Pál" target="Jittat Fakcharoenphol">
+  <data key="d1">13.51370648986357</data>
+</edge>
+<edge source="Martin Pál" target="Chao Liu 0001">
+  <data key="d1">13.51370648986357</data>
+</edge>
+<edge source="Martin Pál" target="Anupam Gupta">
+  <data key="d1">1.5444982787198775</data>
+</edge>
+<edge source="Martin Pál" target="Éva Tardos">
+  <data key="d1">1.52255195715925</data>
+</edge>
+<edge source="Martin Pál" target="Chandra Chekuri">
+  <data key="d1">1.5242732372816525</data>
+</edge>
+<edge source="Martin Pál" target="Tom Wexler">
+  <data key="d1">13.150803264057119</data>
+</edge>
+<edge source="Martin Pál" target="Amitabh Sinha">
+  <data key="d1">13.150803264057119</data>
+</edge>
+<edge source="John Langford" target="Avrim Blum">
+  <data key="d1">1.5510247991839856</data>
+</edge>
+<edge source="John Langford" target="Alina Beygelzimer">
+  <data key="d1">42.51741999234986</data>
+</edge>
+<edge source="John Langford" target="Maria-Florina Balcan">
+  <data key="d1">1.542561838582175</data>
+</edge>
+<edge source="John Langford" target="Sham Kakade">
+  <data key="d1">1.5054825959454292</data>
+</edge>
+<edge source="John Langford" target="Yishay Mansour">
+  <data key="d1">14.765937778911129</data>
+</edge>
+<edge source="John Langford" target="Michael J. Kearns">
+  <data key="d1">14.547908963406858</data>
+</edge>
+<edge source="John Langford" target="Richard R. Muntz">
+  <data key="d1">14.44606655616473</data>
+</edge>
+<edge source="John Langford" target="Shie Mannor">
+  <data key="d1">14.697086574015042</data>
+</edge>
+<edge source="John Langford" target="Anirban Dasgupta">
+  <data key="d1">14.602416167282927</data>
+</edge>
+<edge source="John Langford" target="David Wingate">
+  <data key="d1">14.44606655616473</data>
+</edge>
+<edge source="John Langford" target="Jon M. Kleinberg">
+  <data key="d1">28.75851077393854</data>
+</edge>
+<edge source="John Langford" target="Yun Chi">
+  <data key="d1">14.58950656636491</data>
+</edge>
+<edge source="John Langford" target="Chao Liu 0001">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="John Langford" target="Doina Precup">
+  <data key="d1">14.615325768200943</data>
+</edge>
+<edge source="John Langford" target="Sebastian Thrun">
+  <data key="d1">14.563687364528878</data>
+</edge>
+<edge source="John Langford" target="Robert E. Schapire">
+  <data key="d1">14.615325768200943</data>
+</edge>
+<edge source="John Langford" target="Bing Liu">
+  <data key="d1">14.8233137829912</data>
+</edge>
+<edge source="John Langford" target="Jiawei Han">
+  <data key="d1">15.04851459900548</data>
+</edge>
+<edge source="John Langford" target="Ravi Kumar">
+  <data key="d1">14.938065791151343</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Ravi Kumar">
+  <data key="d1">14.877820986867269</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Qiong Luo">
+  <data key="d1">27.631072293765133</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Volker Markl">
+  <data key="d1">14.464713757490754</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Bing Liu">
+  <data key="d1">14.688480173403034</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Philip S. Yu">
+  <data key="d1">15.045645798801477</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Yiming Ma">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Wynne Hsu">
+  <data key="d1">14.403034553104677</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Wei Wang 0010">
+  <data key="d1">14.63827616983297</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Kevin S. Beyer">
+  <data key="d1">1.52255195715925</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Wolfgang Lehner">
+  <data key="d1">14.464713757490754</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Hamid Pirahesh">
+  <data key="d1">1.5315886778018615</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Berthold Reinwald">
+  <data key="d1">27.15485145990054</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Shawn R. Jeffery">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Guy M. Lohman">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Calisto Zuzarte" target="Mehmet Altinel">
+  <data key="d1">13.69013770240979</data>
+</edge>
+<edge source="Avrim Blum" target="Maria-Florina Balcan">
+  <data key="d1">28.79437077648858</data>
+</edge>
+<edge source="Avrim Blum" target="Tuomas Sandholm">
+  <data key="d1">1.536035318118067</data>
+</edge>
+<edge source="Avrim Blum" target="Yishay Mansour">
+  <data key="d1">1.5396213183730714</data>
+</edge>
+<edge source="Avrim Blum" target="H. Brendan McMahan">
+  <data key="d1">1.532807917888563</data>
+</edge>
+<edge source="Avrim Blum" target="Shie Mannor">
+  <data key="d1">14.669832972077009</data>
+</edge>
+<edge source="Avrim Blum" target="Sham Kakade">
+  <data key="d1">14.464713757490754</data>
+</edge>
+<edge source="Avrim Blum" target="Aleksandrs Slivkins">
+  <data key="d1">28.035573122529637</data>
+</edge>
+<edge source="Avrim Blum" target="Anirban Dasgupta">
+  <data key="d1">14.563687364528878</data>
+</edge>
+<edge source="Avrim Blum" target="Aris Anagnostopoulos">
+  <data key="d1">14.403034553104677</data>
+</edge>
+<edge source="Avrim Blum" target="Michael J. Kearns">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="Avrim Blum" target="Jittat Fakcharoenphol">
+  <data key="d1">14.44606655616473</data>
+</edge>
+<edge source="Avrim Blum" target="David Kempe">
+  <data key="d1">14.547908963406858</data>
+</edge>
+<edge source="Avrim Blum" target="Richard Cole">
+  <data key="d1">14.517786561264822</data>
+</edge>
+<edge source="David Kempe" target="Maria-Florina Balcan">
+  <data key="d1">14.137670534234346</data>
+</edge>
+<edge source="David Kempe" target="Jon M. Kleinberg">
+  <data key="d1">1.5073473160780313</data>
+</edge>
+<edge source="David Kempe" target="Aleksandrs Slivkins">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="David Kempe" target="Jittat Fakcharoenphol">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="David Kempe" target="Richard Cole">
+  <data key="d1">14.097507331378297</data>
+</edge>
+<edge source="David Kempe" target="Tim Roughgarden">
+  <data key="d1">14.424550554634704</data>
+</edge>
+<edge source="David Kempe" target="Harald Räcke">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Qiong Luo" target="C. Mohan">
+  <data key="d1">1.5275006375111564</data>
+</edge>
+<edge source="Qiong Luo" target="Bruce G. Lindsay">
+  <data key="d1">1.5113636363636362</data>
+</edge>
+<edge source="Qiong Luo" target="Sailesh Krishnamurthy">
+  <data key="d1">1.5206155170215476</data>
+</edge>
+<edge source="Qiong Luo" target="Hamid Pirahesh">
+  <data key="d1">15.125541884482978</data>
+</edge>
+<edge source="Qiong Luo" target="Yiming Ma">
+  <data key="d1">27.33845467295677</data>
+</edge>
+<edge source="Qiong Luo" target="Bing Liu">
+  <data key="d1">14.722905775851075</data>
+</edge>
+<edge source="Qiong Luo" target="Philip S. Yu">
+  <data key="d1">15.04851459900548</data>
+</edge>
+<edge source="Qiong Luo" target="Berthold Reinwald">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Qiong Luo" target="Tao Li">
+  <data key="d1">14.659792171362998</data>
+</edge>
+<edge source="Qiong Luo" target="Sebastian Thrun">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Joelle Pineau" target="David A. McAllester">
+  <data key="d1">13.28850567384929</data>
+</edge>
+<edge source="Joelle Pineau" target="Satinder P. Singh">
+  <data key="d1">14.005705724850182</data>
+</edge>
+<edge source="Joelle Pineau" target="Doina Precup">
+  <data key="d1">1.5054825959454292</data>
+</edge>
+<edge source="Joelle Pineau" target="Robert E. Schapire">
+  <data key="d1">13.83501211271197</data>
+</edge>
+<edge source="Joelle Pineau" target="Tao Li">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="Joelle Pineau" target="Gal Elidan">
+  <data key="d1">12.331760805814099</data>
+</edge>
+<edge source="Tao Li" target="Ravi Kumar">
+  <data key="d1">14.943803391559351</data>
+</edge>
+<edge source="Tao Li" target="H. Brendan McMahan">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="Tao Li" target="Sheng Ma">
+  <data key="d1">1.511937396404437</data>
+</edge>
+<edge source="Tao Li" target="Mitsunori Ogihara">
+  <data key="d1">1.5236994772408514</data>
+</edge>
+<edge source="Tao Li" target="Philip S. Yu">
+  <data key="d1">57.68175443070252</data>
+</edge>
+<edge source="Tao Li" target="Wolfgang Lehner">
+  <data key="d1">14.737249776871092</data>
+</edge>
+<edge source="Tao Li" target="Jiawei Han">
+  <data key="d1">29.24333800841514</data>
+</edge>
+<edge source="Tao Li" target="Yun Chi">
+  <data key="d1">28.397041948234087</data>
+</edge>
+<edge source="Tao Li" target="Bing Liu">
+  <data key="d1">14.837657784011217</data>
+</edge>
+<edge source="Tao Li" target="Hamid Pirahesh">
+  <data key="d1">14.697086574015042</data>
+</edge>
+<edge source="Robert E. Schapire" target="Ravi Kumar">
+  <data key="d1">14.889296187683282</data>
+</edge>
+<edge source="Robert E. Schapire" target="Tuomas Sandholm">
+  <data key="d1">14.005705724850182</data>
+</edge>
+<edge source="Robert E. Schapire" target="H. Brendan McMahan">
+  <data key="d1">13.83501211271197</data>
+</edge>
+<edge source="Robert E. Schapire" target="David A. McAllester">
+  <data key="d1">1.5186073568787455</data>
+</edge>
+<edge source="Robert E. Schapire" target="Bing Liu">
+  <data key="d1">14.714299375239063</data>
+</edge>
+<edge source="Robert E. Schapire" target="Jiawei Han">
+  <data key="d1">15.03273619788346</data>
+</edge>
+<edge source="Robert E. Schapire" target="Jon M. Kleinberg">
+  <data key="d1">14.688480173403034</data>
+</edge>
+<edge source="Tim Roughgarden" target="Kunal Talwar">
+  <data key="d1">14.563687364528878</data>
+</edge>
+<edge source="Tim Roughgarden" target="Ravi Kumar">
+  <data key="d1">14.910812189213308</data>
+</edge>
+<edge source="Tim Roughgarden" target="Harald Räcke">
+  <data key="d1">14.44606655616473</data>
+</edge>
+<edge source="Tim Roughgarden" target="Anirban Dasgupta">
+  <data key="d1">14.44606655616473</data>
+</edge>
+<edge source="Tim Roughgarden" target="Amit Kumar">
+  <data key="d1">1.519970036975647</data>
+</edge>
+<edge source="Tim Roughgarden" target="Anupam Gupta">
+  <data key="d1">15.428917506056354</data>
+</edge>
+<edge source="Tim Roughgarden" target="Éva Tardos">
+  <data key="d1">1.52255195715925</data>
+</edge>
+<edge source="Tim Roughgarden" target="Richard Cole">
+  <data key="d1">1.532807917888563</data>
+</edge>
+<edge source="Berthold Reinwald" target="Ravi Kumar">
+  <data key="d1">14.870648986357258</data>
+</edge>
+<edge source="Berthold Reinwald" target="Volker Markl">
+  <data key="d1">14.424550554634704</data>
+</edge>
+<edge source="Berthold Reinwald" target="Bing Liu">
+  <data key="d1">14.669832972077009</data>
+</edge>
+<edge source="Berthold Reinwald" target="Philip S. Yu">
+  <data key="d1">15.044211398699476</data>
+</edge>
+<edge source="Berthold Reinwald" target="Wynne Hsu">
+  <data key="d1">14.35713374984062</data>
+</edge>
+<edge source="Berthold Reinwald" target="Wei Wang 0010">
+  <data key="d1">14.615325768200943</data>
+</edge>
+<edge source="Berthold Reinwald" target="Wolfgang Lehner">
+  <data key="d1">14.424550554634704</data>
+</edge>
+<edge source="Berthold Reinwald" target="Guy M. Lohman">
+  <data key="d1">27.694185898253213</data>
+</edge>
+<edge source="Berthold Reinwald" target="Hamid Pirahesh">
+  <data key="d1">1.4617333928343745</data>
+</edge>
+<edge source="Berthold Reinwald" target="Mehmet Altinel">
+  <data key="d1">14.146563814866758</data>
+</edge>
+<edge source="Berthold Reinwald" target="C. Mohan">
+  <data key="d1">1.5163840367206425</data>
+</edge>
+<edge source="Berthold Reinwald" target="Sailesh Krishnamurthy">
+  <data key="d1">1.5054825959454292</data>
+</edge>
+<edge source="Berthold Reinwald" target="Shawn R. Jeffery">
+  <data key="d1">26.357325003187544</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="Maria-Florina Balcan">
+  <data key="d1">13.83501211271197</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="Kunal Talwar">
+  <data key="d1">1.5020400357006247</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="Aleksandrs Slivkins">
+  <data key="d1">13.407560882315439</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="Richard Cole">
+  <data key="d1">26.675761825831945</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="Yuri Rabinovich">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="Tom Wexler">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="C. Mohan">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="Hamid Pirahesh">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Jittat Fakcharoenphol" target="Bruce G. Lindsay">
+  <data key="d1">13.150803264057119</data>
+</edge>
+<edge source="David E. Simmen" target="Sheng Ma">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="David E. Simmen" target="Volker Markl">
+  <data key="d1">14.931610990692333</data>
+</edge>
+<edge source="David E. Simmen" target="Philip S. Yu">
+  <data key="d1">15.039908198393471</data>
+</edge>
+<edge source="David E. Simmen" target="Jiawei Han">
+  <data key="d1">15.022695397169448</data>
+</edge>
+<edge source="David E. Simmen" target="Richard R. Muntz">
+  <data key="d1">12.592821624378425</data>
+</edge>
+<edge source="David E. Simmen" target="Guy M. Lohman">
+  <data key="d1">1.490995154915211</data>
+</edge>
+<edge source="David E. Simmen" target="Hamid Pirahesh">
+  <data key="d1">1.4940791151345147</data>
+</edge>
+<edge source="David E. Simmen" target="Mehmet Altinel">
+  <data key="d1">13.407058842279739</data>
+</edge>
+<edge source="David E. Simmen" target="Roberta Cochrane">
+  <data key="d1">13.150803264057119</data>
+</edge>
+<edge source="David E. Simmen" target="Bruce G. Lindsay">
+  <data key="d1">12.809416039780695</data>
+</edge>
+<edge source="Jan Prins" target="Kaidi Zhao">
+  <data key="d1">12.809416039780695</data>
+</edge>
+<edge source="Jan Prins" target="Wei Wang 0010">
+  <data key="d1">15.16728292745123</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Kunal Talwar">
+  <data key="d1">14.602416167282927</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Ravi Kumar">
+  <data key="d1">28.982277189850816</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Volker Markl">
+  <data key="d1">28.44007395129414</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Philip S. Yu">
+  <data key="d1">15.055686599515491</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Wynne Hsu">
+  <data key="d1">28.37409154660206</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Mitsunori Ogihara">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Jiawei Han">
+  <data key="d1">43.41521101619278</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Yun Chi">
+  <data key="d1">28.11016192783373</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Wei Wang 0010">
+  <data key="d1">14.753028177993112</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Kevin S. Beyer">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Hamid Pirahesh">
+  <data key="d1">1.543207318628076</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Roberta Cochrane">
+  <data key="d1">1.5315886778018615</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Chun Zhang">
+  <data key="d1">14.275372944026518</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Shawn R. Jeffery">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Guy M. Lohman">
+  <data key="d1">14.57659696544689</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Mehmet Altinel">
+  <data key="d1">14.304060946066553</data>
+</edge>
+<edge source="Wolfgang Lehner" target="Fatma Özcan">
+  <data key="d1">14.35713374984062</data>
+</edge>
+<edge source="Yun Chi" target="Alina Beygelzimer">
+  <data key="d1">14.053040928216243</data>
+</edge>
+<edge source="Yun Chi" target="Ravi Kumar">
+  <data key="d1">14.882124187173273</data>
+</edge>
+<edge source="Yun Chi" target="Anirban Dasgupta">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Yun Chi" target="Jon M. Kleinberg">
+  <data key="d1">14.669832972077009</data>
+</edge>
+<edge source="Yun Chi" target="Bing Liu">
+  <data key="d1">14.697086574015042</data>
+</edge>
+<edge source="Yun Chi" target="Philip S. Yu">
+  <data key="d1">29.940384737982903</data>
+</edge>
+<edge source="Yun Chi" target="Chao Liu 0001">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Yun Chi" target="Jiawei Han">
+  <data key="d1">15.03130179778146</data>
+</edge>
+<edge source="Yun Chi" target="Richard R. Muntz">
+  <data key="d1">1.460514152747673</data>
+</edge>
+<edge source="Yun Chi" target="Kevin S. Beyer">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Yun Chi" target="Chun Zhang">
+  <data key="d1">13.69013770240979</data>
+</edge>
+<edge source="C. Mohan" target="Hamid Pirahesh">
+  <data key="d1">28.521189277062337</data>
+</edge>
+<edge source="C. Mohan" target="Mehmet Altinel">
+  <data key="d1">1.46618003315058</data>
+</edge>
+<edge source="C. Mohan" target="Bruce G. Lindsay">
+  <data key="d1">14.411640953716688</data>
+</edge>
+<edge source="C. Mohan" target="Sailesh Krishnamurthy">
+  <data key="d1">1.4542027922988652</data>
+</edge>
+<edge source="C. Mohan" target="Shawn R. Jeffery">
+  <data key="d1">13.83501211271197</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Harald Räcke">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Anirban Dasgupta">
+  <data key="d1">1.5020400357006247</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Jon M. Kleinberg">
+  <data key="d1">1.5419163585362743</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Tom Wexler">
+  <data key="d1">1.4303200306005355</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Éva Tardos">
+  <data key="d1">1.5140172765523396</data>
+</edge>
+<edge source="Wei Wang 0010" target="Ravi Kumar">
+  <data key="d1">29.042521994134894</data>
+</edge>
+<edge source="Wei Wang 0010" target="Anirban Dasgupta">
+  <data key="d1">14.659792171362998</data>
+</edge>
+<edge source="Wei Wang 0010" target="Geoffrey J. Gordon">
+  <data key="d1">14.626800969016955</data>
+</edge>
+<edge source="Wei Wang 0010" target="Volker Markl">
+  <data key="d1">14.753028177993112</data>
+</edge>
+<edge source="Wei Wang 0010" target="Bing Liu">
+  <data key="d1">28.83596837944663</data>
+</edge>
+<edge source="Wei Wang 0010" target="Philip S. Yu">
+  <data key="d1">1.5429921586127755</data>
+</edge>
+<edge source="Wei Wang 0010" target="Wynne Hsu">
+  <data key="d1">14.730077776361082</data>
+</edge>
+<edge source="Wei Wang 0010" target="Richard R. Muntz">
+  <data key="d1">1.5404102384291725</data>
+</edge>
+<edge source="Wei Wang 0010" target="Aris Anagnostopoulos">
+  <data key="d1">14.547908963406858</data>
+</edge>
+<edge source="Wei Wang 0010" target="Kevin S. Beyer">
+  <data key="d1">14.659792171362998</data>
+</edge>
+<edge source="Wei Wang 0010" target="Shawn R. Jeffery">
+  <data key="d1">14.563687364528878</data>
+</edge>
+<edge source="Wei Wang 0010" target="Guy M. Lohman">
+  <data key="d1">14.705692974627055</data>
+</edge>
+<edge source="Wei Wang 0010" target="Mehmet Altinel">
+  <data key="d1">14.547908963406858</data>
+</edge>
+<edge source="Doina Precup" target="Sham Kakade">
+  <data key="d1">14.053040928216243</data>
+</edge>
+<edge source="Doina Precup" target="Shie Mannor">
+  <data key="d1">1.5379000382506693</data>
+</edge>
+<edge source="Doina Precup" target="David A. McAllester">
+  <data key="d1">14.097507331378297</data>
+</edge>
+<edge source="Doina Precup" target="Satinder P. Singh">
+  <data key="d1">14.38151855157465</data>
+</edge>
+<edge source="Doina Precup" target="Sebastian Thrun">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Doina Precup" target="Aleksandrs Slivkins">
+  <data key="d1">14.005705724850182</data>
+</edge>
+<edge source="Doina Precup" target="Daphne Koller">
+  <data key="d1">14.626800969016955</data>
+</edge>
+<edge source="Doina Precup" target="Geoffrey J. Gordon">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Richard R. Muntz" target="Sheng Ma">
+  <data key="d1">27.418781078668868</data>
+</edge>
+<edge source="Richard R. Muntz" target="Philip S. Yu">
+  <data key="d1">1.5616393599387988</data>
+</edge>
+<edge source="Richard R. Muntz" target="Salvatore J. Stolfo">
+  <data key="d1">12.809416039780695</data>
+</edge>
+<edge source="Richard R. Muntz" target="Jiawei Han">
+  <data key="d1">15.021260997067447</data>
+</edge>
+<edge source="Richard R. Muntz" target="Roberta Cochrane">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="Richard R. Muntz" target="Bruce G. Lindsay">
+  <data key="d1">12.592821624378425</data>
+</edge>
+<edge source="Philip S. Yu" target="Ravi Kumar">
+  <data key="d1">15.084374601555526</data>
+</edge>
+<edge source="Philip S. Yu" target="H. Brendan McMahan">
+  <data key="d1">15.03847379829147</data>
+</edge>
+<edge source="Philip S. Yu" target="Sheng Ma">
+  <data key="d1">1.5663728802754049</data>
+</edge>
+<edge source="Philip S. Yu" target="Volker Markl">
+  <data key="d1">15.055686599515491</data>
+</edge>
+<edge source="Philip S. Yu" target="Jon M. Kleinberg">
+  <data key="d1">15.065727400229502</data>
+</edge>
+<edge source="Philip S. Yu" target="Bing Liu">
+  <data key="d1">44.18218475073313</data>
+</edge>
+<edge source="Philip S. Yu" target="Salvatore J. Stolfo">
+  <data key="d1">1.5657274002295039</data>
+</edge>
+<edge source="Philip S. Yu" target="Jiawei Han">
+  <data key="d1">72.79488078541372</data>
+</edge>
+<edge source="Philip S. Yu" target="Chang-Shing Perng">
+  <data key="d1">1.5619979599642995</data>
+</edge>
+<edge source="Philip S. Yu" target="Aris Anagnostopoulos">
+  <data key="d1">1.5657274002295039</data>
+</edge>
+<edge source="Philip S. Yu" target="Chao Liu 0001">
+  <data key="d1">1.565799120234604</data>
+</edge>
+<edge source="Philip S. Yu" target="Yiming Ma">
+  <data key="d1">1.565870840239704</data>
+</edge>
+<edge source="Philip S. Yu" target="Mehmet Altinel">
+  <data key="d1">15.039908198393471</data>
+</edge>
+<edge source="Philip S. Yu" target="Kevin S. Beyer">
+  <data key="d1">15.047080198903478</data>
+</edge>
+<edge source="Philip S. Yu" target="Sailesh Krishnamurthy">
+  <data key="d1">15.042776998597475</data>
+</edge>
+<edge source="Harald Räcke" target="Ravi Kumar">
+  <data key="d1">14.884992987377275</data>
+</edge>
+<edge source="Harald Räcke" target="Anupam Gupta">
+  <data key="d1">1.5216195970929491</data>
+</edge>
+<edge source="Harald Räcke" target="Aaron Archer">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Salvatore J. Stolfo" target="Sheng Ma">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Salvatore J. Stolfo" target="Richard Cole">
+  <data key="d1">13.69013770240979</data>
+</edge>
+<edge source="Salvatore J. Stolfo" target="Jiawei Han">
+  <data key="d1">15.024129797271453</data>
+</edge>
+<edge source="Éva Tardos" target="Kunal Talwar">
+  <data key="d1">1.5387606783118706</data>
+</edge>
+<edge source="Éva Tardos" target="Yishay Mansour">
+  <data key="d1">14.648316970546983</data>
+</edge>
+<edge source="Éva Tardos" target="Anirban Dasgupta">
+  <data key="d1">1.5315886778018615</data>
+</edge>
+<edge source="Éva Tardos" target="Sheng Ma">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="Éva Tardos" target="Jon M. Kleinberg">
+  <data key="d1">15.395065663649113</data>
+</edge>
+<edge source="Éva Tardos" target="Daphne Koller">
+  <data key="d1">14.659792171362998</data>
+</edge>
+<edge source="Éva Tardos" target="Chang-Shing Perng">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Éva Tardos" target="Amit Kumar">
+  <data key="d1">14.403034553104677</data>
+</edge>
+<edge source="Éva Tardos" target="Anupam Gupta">
+  <data key="d1">14.714299375239063</data>
+</edge>
+<edge source="Éva Tardos" target="Tom Wexler">
+  <data key="d1">1.4542027922988652</data>
+</edge>
+<edge source="Éva Tardos" target="Aaron Archer">
+  <data key="d1">1.4634546729567766</data>
+</edge>
+<edge source="Kunal Talwar" target="Alina Beygelzimer">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Kunal Talwar" target="Maria-Florina Balcan">
+  <data key="d1">14.38151855157465</data>
+</edge>
+<edge source="Kunal Talwar" target="Anupam Gupta">
+  <data key="d1">15.408190424582429</data>
+</edge>
+<edge source="Kunal Talwar" target="Aaron Archer">
+  <data key="d1">14.87853818691827</data>
+</edge>
+<edge source="Kunal Talwar" target="Chandra Chekuri">
+  <data key="d1">28.17901313272982</data>
+</edge>
+<edge source="Kunal Talwar" target="Amit Kumar">
+  <data key="d1">14.464713757490754</data>
+</edge>
+<edge source="Kunal Talwar" target="Yishay Mansour">
+  <data key="d1">28.50031875557821</data>
+</edge>
+<edge source="Kunal Talwar" target="Aleksandrs Slivkins">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Kunal Talwar" target="Ravi Kumar">
+  <data key="d1">28.959326788218785</data>
+</edge>
+<edge source="Kunal Talwar" target="Tuomas Sandholm">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Kunal Talwar" target="David Wingate">
+  <data key="d1">14.137670534234346</data>
+</edge>
+<edge source="Kunal Talwar" target="Anirban Dasgupta">
+  <data key="d1">14.424550554634704</data>
+</edge>
+<edge source="Kunal Talwar" target="Amitabh Sinha">
+  <data key="d1">14.137670534234346</data>
+</edge>
+<edge source="Kunal Talwar" target="Mitsunori Ogihara">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Shie Mannor" target="Alina Beygelzimer">
+  <data key="d1">14.38151855157465</data>
+</edge>
+<edge source="Shie Mannor" target="Maria-Florina Balcan">
+  <data key="d1">14.424550554634704</data>
+</edge>
+<edge source="Shie Mannor" target="Sham Kakade">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Shie Mannor" target="Yishay Mansour">
+  <data key="d1">1.5485863190105826</data>
+</edge>
+<edge source="Shie Mannor" target="Aleksandrs Slivkins">
+  <data key="d1">14.304060946066553</data>
+</edge>
+<edge source="Shie Mannor" target="Anirban Dasgupta">
+  <data key="d1">14.464713757490754</data>
+</edge>
+<edge source="Shie Mannor" target="David Wingate">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Wynne Hsu" target="Ravi Kumar">
+  <data key="d1">14.910812189213308</data>
+</edge>
+<edge source="Wynne Hsu" target="Volker Markl">
+  <data key="d1">28.37409154660206</data>
+</edge>
+<edge source="Wynne Hsu" target="Bing Liu">
+  <data key="d1">1.5302977177100598</data>
+</edge>
+<edge source="Wynne Hsu" target="Yiming Ma">
+  <data key="d1">1.528935037613158</data>
+</edge>
+<edge source="Wynne Hsu" target="Kaidi Zhao">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Wynne Hsu" target="Jiawei Han">
+  <data key="d1">15.039908198393471</data>
+</edge>
+<edge source="Wynne Hsu" target="Mitsunori Ogihara">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Wynne Hsu" target="Shawn R. Jeffery">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Wynne Hsu" target="Guy M. Lohman">
+  <data key="d1">14.53356496238684</data>
+</edge>
+<edge source="Wynne Hsu" target="Mehmet Altinel">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Chao Liu 0001" target="Alina Beygelzimer">
+  <data key="d1">26.52371541501976</data>
+</edge>
+<edge source="Chao Liu 0001" target="Yishay Mansour">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="Chao Liu 0001" target="Sheng Ma">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Chao Liu 0001" target="Jon M. Kleinberg">
+  <data key="d1">14.602416167282927</data>
+</edge>
+<edge source="Chao Liu 0001" target="Mitsunori Ogihara">
+  <data key="d1">13.28850567384929</data>
+</edge>
+<edge source="Chao Liu 0001" target="Jiawei Han">
+  <data key="d1">1.5561886395511921</data>
+</edge>
+<edge source="Chao Liu 0001" target="Aris Anagnostopoulos">
+  <data key="d1">13.150803264057119</data>
+</edge>
+<edge source="Chao Liu 0001" target="Chang-Shing Perng">
+  <data key="d1">26.52371541501976</data>
+</edge>
+<edge source="Satinder P. Singh" target="Sham Kakade">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Satinder P. Singh" target="Yishay Mansour">
+  <data key="d1">1.5461478388371797</data>
+</edge>
+<edge source="Satinder P. Singh" target="David A. McAllester">
+  <data key="d1">40.91935483870967</data>
+</edge>
+<edge source="Satinder P. Singh" target="Michael J. Kearns">
+  <data key="d1">1.4542027922988652</data>
+</edge>
+<edge source="Satinder P. Singh" target="David Wingate">
+  <data key="d1">1.4841100344256024</data>
+</edge>
+<edge source="Satinder P. Singh" target="Aleksandrs Slivkins">
+  <data key="d1">14.137670534234346</data>
+</edge>
+<edge source="Satinder P. Singh" target="Daphne Koller">
+  <data key="d1">14.659792171362998</data>
+</edge>
+<edge source="Satinder P. Singh" target="Geoffrey J. Gordon">
+  <data key="d1">14.275372944026518</data>
+</edge>
+<edge source="Satinder P. Singh" target="Gal Elidan">
+  <data key="d1">14.005705724850182</data>
+</edge>
+<edge source="Daphne Koller" target="Sham Kakade">
+  <data key="d1">14.53356496238684</data>
+</edge>
+<edge source="Daphne Koller" target="David A. McAllester">
+  <data key="d1">14.547908963406858</data>
+</edge>
+<edge source="Daphne Koller" target="Sheng Ma">
+  <data key="d1">14.688480173403034</data>
+</edge>
+<edge source="Daphne Koller" target="Geoffrey J. Gordon">
+  <data key="d1">14.57659696544689</data>
+</edge>
+<edge source="Daphne Koller" target="Aleksandrs Slivkins">
+  <data key="d1">14.517786561264822</data>
+</edge>
+<edge source="Daphne Koller" target="Sebastian Thrun">
+  <data key="d1">1.542561838582175</data>
+</edge>
+<edge source="Daphne Koller" target="Gal Elidan">
+  <data key="d1">1.536967678184368</data>
+</edge>
+<edge source="Daphne Koller" target="Chang-Shing Perng">
+  <data key="d1">14.563687364528878</data>
+</edge>
+<edge source="Daphne Koller" target="Chun Zhang">
+  <data key="d1">14.464713757490754</data>
+</edge>
+<edge source="Aaron Archer" target="Maria-Florina Balcan">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Aaron Archer" target="Ravi Kumar">
+  <data key="d1">28.853181180670653</data>
+</edge>
+<edge source="Aaron Archer" target="Yishay Mansour">
+  <data key="d1">14.483360958816776</data>
+</edge>
+<edge source="Aaron Archer" target="Aleksandrs Slivkins">
+  <data key="d1">13.28850567384929</data>
+</edge>
+<edge source="Aaron Archer" target="Anupam Gupta">
+  <data key="d1">14.58950656636491</data>
+</edge>
+<edge source="Aaron Archer" target="Chandra Chekuri">
+  <data key="d1">14.137670534234346</data>
+</edge>
+<edge source="Yiming Ma" target="David A. McAllester">
+  <data key="d1">13.69013770240979</data>
+</edge>
+<edge source="Yiming Ma" target="Bing Liu">
+  <data key="d1">1.490995154915211</data>
+</edge>
+<edge source="Yiming Ma" target="Mitsunori Ogihara">
+  <data key="d1">13.407560882315439</data>
+</edge>
+<edge source="Ravi Kumar" target="Maria-Florina Balcan">
+  <data key="d1">14.877820986867269</data>
+</edge>
+<edge source="Ravi Kumar" target="Jon M. Kleinberg">
+  <data key="d1">15.658708402397039</data>
+</edge>
+<edge source="Ravi Kumar" target="Aris Anagnostopoulos">
+  <data key="d1">1.5562603595562923</data>
+</edge>
+<edge source="Ravi Kumar" target="Anirban Dasgupta">
+  <data key="d1">15.55492955501721</data>
+</edge>
+<edge source="Ravi Kumar" target="Bing Liu">
+  <data key="d1">14.95958179268137</data>
+</edge>
+<edge source="Ravi Kumar" target="Jiawei Han">
+  <data key="d1">29.294976412087205</data>
+</edge>
+<edge source="Ravi Kumar" target="Yishay Mansour">
+  <data key="d1">14.938065791151343</data>
+</edge>
+<edge source="Ravi Kumar" target="Aleksandrs Slivkins">
+  <data key="d1">14.859173785541246</data>
+</edge>
+<edge source="Ravi Kumar" target="Anupam Gupta">
+  <data key="d1">14.953844192273362</data>
+</edge>
+<edge source="Ravi Kumar" target="Chandra Chekuri">
+  <data key="d1">14.902205788601298</data>
+</edge>
+<edge source="Ravi Kumar" target="Yuri Rabinovich">
+  <data key="d1">14.846264184623227</data>
+</edge>
+<edge source="Ravi Kumar" target="Kevin S. Beyer">
+  <data key="d1">28.913425984954728</data>
+</edge>
+<edge source="Ravi Kumar" target="Chun Zhang">
+  <data key="d1">14.846264184623227</data>
+</edge>
+<edge source="Ravi Kumar" target="Volker Markl">
+  <data key="d1">14.91941858982532</data>
+</edge>
+<edge source="Ravi Kumar" target="Shawn R. Jeffery">
+  <data key="d1">14.854870585235242</data>
+</edge>
+<edge source="Ravi Kumar" target="Guy M. Lohman">
+  <data key="d1">14.902205788601298</data>
+</edge>
+<edge source="Ravi Kumar" target="Mehmet Altinel">
+  <data key="d1">14.850567384929235</data>
+</edge>
+<edge source="Alina Beygelzimer" target="Maria-Florina Balcan">
+  <data key="d1">1.5140172765523396</data>
+</edge>
+<edge source="Alina Beygelzimer" target="Sheng Ma">
+  <data key="d1">1.5302977177100598</data>
+</edge>
+<edge source="Alina Beygelzimer" target="Yishay Mansour">
+  <data key="d1">28.23925793701389</data>
+</edge>
+<edge source="Alina Beygelzimer" target="Michael J. Kearns">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Alina Beygelzimer" target="Anirban Dasgupta">
+  <data key="d1">14.097507331378297</data>
+</edge>
+<edge source="Alina Beygelzimer" target="David Wingate">
+  <data key="d1">25.958561774831054</data>
+</edge>
+<edge source="Alina Beygelzimer" target="Jon M. Kleinberg">
+  <data key="d1">14.63827616983297</data>
+</edge>
+<edge source="Alina Beygelzimer" target="Tuomas Sandholm">
+  <data key="d1">13.69013770240979</data>
+</edge>
+<edge source="Alina Beygelzimer" target="Chang-Shing Perng">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Mitsunori Ogihara" target="Tuomas Sandholm">
+  <data key="d1">13.28850567384929</data>
+</edge>
+<edge source="Mitsunori Ogihara" target="Sheng Ma">
+  <data key="d1">27.565089889073054</data>
+</edge>
+<edge source="Mitsunori Ogihara" target="Volker Markl">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Mitsunori Ogihara" target="Sebastian Thrun">
+  <data key="d1">13.69013770240979</data>
+</edge>
+<edge source="Mitsunori Ogihara" target="Jiawei Han">
+  <data key="d1">15.024129797271453</data>
+</edge>
+<edge source="Mitsunori Ogihara" target="Amitabh Sinha">
+  <data key="d1">12.809416039780695</data>
+</edge>
+<edge source="Mitsunori Ogihara" target="Aris Anagnostopoulos">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="Mitsunori Ogihara" target="Chang-Shing Perng">
+  <data key="d1">13.606942496493685</data>
+</edge>
+<edge source="Sheng Ma" target="Tuomas Sandholm">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Sheng Ma" target="Chang-Shing Perng">
+  <data key="d1">41.8241744230524</data>
+</edge>
+<edge source="Sheng Ma" target="Sebastian Thrun">
+  <data key="d1">14.35713374984062</data>
+</edge>
+<edge source="Sheng Ma" target="Aris Anagnostopoulos">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Sheng Ma" target="Jiawei Han">
+  <data key="d1">15.03847379829147</data>
+</edge>
+<edge source="Sheng Ma" target="Roberta Cochrane">
+  <data key="d1">14.24381614178248</data>
+</edge>
+<edge source="Sheng Ma" target="Bruce G. Lindsay">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Kaidi Zhao" target="Bing Liu">
+  <data key="d1">1.4859747545582047</data>
+</edge>
+<edge source="Geoffrey J. Gordon" target="Sham Kakade">
+  <data key="d1">13.83501211271197</data>
+</edge>
+<edge source="Geoffrey J. Gordon" target="H. Brendan McMahan">
+  <data key="d1">1.489417314803009</data>
+</edge>
+<edge source="Geoffrey J. Gordon" target="David A. McAllester">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Geoffrey J. Gordon" target="Anirban Dasgupta">
+  <data key="d1">14.137670534234346</data>
+</edge>
+<edge source="Geoffrey J. Gordon" target="Sebastian Thrun">
+  <data key="d1">1.4841100344256024</data>
+</edge>
+<edge source="Geoffrey J. Gordon" target="Aleksandrs Slivkins">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Geoffrey J. Gordon" target="Bing Liu">
+  <data key="d1">14.67843937268902</data>
+</edge>
+<edge source="Geoffrey J. Gordon" target="Aris Anagnostopoulos">
+  <data key="d1">13.606942496493685</data>
+</edge>
+<edge source="David Wingate" target="Tuomas Sandholm">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="David Wingate" target="Yishay Mansour">
+  <data key="d1">14.44606655616473</data>
+</edge>
+<edge source="David Wingate" target="Anirban Dasgupta">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Maria-Florina Balcan" target="Yishay Mansour">
+  <data key="d1">28.967072548769597</data>
+</edge>
+<edge source="Maria-Florina Balcan" target="Sham Kakade">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="Maria-Florina Balcan" target="Aleksandrs Slivkins">
+  <data key="d1">39.79191635853626</data>
+</edge>
+<edge source="Maria-Florina Balcan" target="Anupam Gupta">
+  <data key="d1">14.659792171362998</data>
+</edge>
+<edge source="Maria-Florina Balcan" target="Chandra Chekuri">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Maria-Florina Balcan" target="Richard Cole">
+  <data key="d1">14.053040928216243</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Michael J. Kearns">
+  <data key="d1">14.63827616983297</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Anirban Dasgupta">
+  <data key="d1">1.5476539589442813</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Aleksandrs Slivkins">
+  <data key="d1">1.528935037613158</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Anupam Gupta">
+  <data key="d1">1.5558300395256914</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Tom Wexler">
+  <data key="d1">15.24904373326533</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Amit Kumar">
+  <data key="d1">1.536035318118067</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Bing Liu">
+  <data key="d1">14.854870585235242</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Jiawei Han">
+  <data key="d1">29.249075608823148</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Kevin S. Beyer">
+  <data key="d1">14.67843937268902</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Sailesh Krishnamurthy">
+  <data key="d1">14.626800969016955</data>
+</edge>
+<edge source="David A. McAllester" target="Sham Kakade">
+  <data key="d1">13.69013770240979</data>
+</edge>
+<edge source="David A. McAllester" target="Yishay Mansour">
+  <data key="d1">1.5404102384291725</data>
+</edge>
+<edge source="David A. McAllester" target="Aleksandrs Slivkins">
+  <data key="d1">13.606942496493685</data>
+</edge>
+<edge source="David A. McAllester" target="Gal Elidan">
+  <data key="d1">13.28850567384929</data>
+</edge>
+<edge source="Guy M. Lohman" target="Volker Markl">
+  <data key="d1">15.200274129797267</data>
+</edge>
+<edge source="Guy M. Lohman" target="Kevin S. Beyer">
+  <data key="d1">1.532807917888563</data>
+</edge>
+<edge source="Guy M. Lohman" target="Hamid Pirahesh">
+  <data key="d1">1.4688336733392833</data>
+</edge>
+<edge source="Guy M. Lohman" target="Chun Zhang">
+  <data key="d1">1.459008032640571</data>
+</edge>
+<edge source="Guy M. Lohman" target="Shawn R. Jeffery">
+  <data key="d1">27.418781078668868</data>
+</edge>
+<edge source="Guy M. Lohman" target="Mehmet Altinel">
+  <data key="d1">14.097507331378297</data>
+</edge>
+<edge source="Chun Zhang" target="Kevin S. Beyer">
+  <data key="d1">14.411640953716688</data>
+</edge>
+<edge source="Richard Cole" target="Aleksandrs Slivkins">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Richard Cole" target="Yuri Rabinovich">
+  <data key="d1">13.51370648986357</data>
+</edge>
+<edge source="Bing Liu" target="Anirban Dasgupta">
+  <data key="d1">14.705692974627055</data>
+</edge>
+<edge source="Bing Liu" target="Jiawei Han">
+  <data key="d1">29.25481320923116</data>
+</edge>
+<edge source="Bing Liu" target="Aris Anagnostopoulos">
+  <data key="d1">14.615325768200943</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Jiawei Han">
+  <data key="d1">15.026998597475455</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Kevin S. Beyer">
+  <data key="d1">14.053040928216243</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Hamid Pirahesh">
+  <data key="d1">1.4812412342215988</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Mehmet Altinel">
+  <data key="d1">1.4392850312380467</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Bruce G. Lindsay">
+  <data key="d1">1.4841100344256024</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Shawn R. Jeffery">
+  <data key="d1">1.489417314803009</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Shariq Rizvi">
+  <data key="d1">1.4841100344256024</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Fatma Özcan">
+  <data key="d1">13.606942496493685</data>
+</edge>
+<edge source="Amit Kumar" target="Yishay Mansour">
+  <data key="d1">14.626800969016955</data>
+</edge>
+<edge source="Amit Kumar" target="Anupam Gupta">
+  <data key="d1">15.326214458753023</data>
+</edge>
+<edge source="Amit Kumar" target="Chandra Chekuri">
+  <data key="d1">14.424550554634704</data>
+</edge>
+<edge source="Kevin S. Beyer" target="Jiawei Han">
+  <data key="d1">15.03130179778146</data>
+</edge>
+<edge source="Kevin S. Beyer" target="Fatma Özcan">
+  <data key="d1">1.41784074971312</data>
+</edge>
+<edge source="Kevin S. Beyer" target="Hamid Pirahesh">
+  <data key="d1">1.5140172765523396</data>
+</edge>
+<edge source="Kevin S. Beyer" target="Roberta Cochrane">
+  <data key="d1">1.4802371541501975</data>
+</edge>
+<edge source="Aleksandrs Slivkins" target="Sham Kakade">
+  <data key="d1">26.170852989927315</data>
+</edge>
+<edge source="Aleksandrs Slivkins" target="Yishay Mansour">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="Aleksandrs Slivkins" target="Anirban Dasgupta">
+  <data key="d1">13.952632921076118</data>
+</edge>
+<edge source="Aleksandrs Slivkins" target="Anupam Gupta">
+  <data key="d1">14.602416167282927</data>
+</edge>
+<edge source="Aleksandrs Slivkins" target="Chandra Chekuri">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Aleksandrs Slivkins" target="Amitabh Sinha">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="Anupam Gupta" target="Yishay Mansour">
+  <data key="d1">28.75851077393854</data>
+</edge>
+<edge source="Anupam Gupta" target="Amitabh Sinha">
+  <data key="d1">1.5259227973989544</data>
+</edge>
+<edge source="Anupam Gupta" target="Yuri Rabinovich">
+  <data key="d1">1.5419163585362743</data>
+</edge>
+<edge source="Anupam Gupta" target="Chandra Chekuri">
+  <data key="d1">15.416223065153638</data>
+</edge>
+<edge source="Hamid Pirahesh" target="Volker Markl">
+  <data key="d1">1.543207318628076</data>
+</edge>
+<edge source="Hamid Pirahesh" target="Roberta Cochrane">
+  <data key="d1">1.4253713502486294</data>
+</edge>
+<edge source="Hamid Pirahesh" target="Bruce G. Lindsay">
+  <data key="d1">14.748653257682008</data>
+</edge>
+<edge source="Hamid Pirahesh" target="Mehmet Altinel">
+  <data key="d1">1.4940791151345147</data>
+</edge>
+<edge source="Hamid Pirahesh" target="Fatma Özcan">
+  <data key="d1">1.4996015555272215</data>
+</edge>
+<edge source="Hamid Pirahesh" target="Shawn R. Jeffery">
+  <data key="d1">14.176399336988394</data>
+</edge>
+<edge source="Jiawei Han" target="Volker Markl">
+  <data key="d1">29.228994007395126</data>
+</edge>
+<edge source="Jiawei Han" target="Mehmet Altinel">
+  <data key="d1">15.022695397169448</data>
+</edge>
+<edge source="Jiawei Han" target="Fatma Özcan">
+  <data key="d1">15.024129797271453</data>
+</edge>
+<edge source="Shariq Rizvi" target="Roberta Cochrane">
+  <data key="d1">13.150803264057119</data>
+</edge>
+<edge source="Shariq Rizvi" target="Shawn R. Jeffery">
+  <data key="d1">1.4634546729567766</data>
+</edge>
+<edge source="Fatma Özcan" target="Roberta Cochrane">
+  <data key="d1">1.4841100344256024</data>
+</edge>
+<edge source="Anirban Dasgupta" target="Tom Wexler">
+  <data key="d1">1.5020400357006247</data>
+</edge>
+<edge source="Anirban Dasgupta" target="Amitabh Sinha">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Anirban Dasgupta" target="Aris Anagnostopoulos">
+  <data key="d1">26.813464235624117</data>
+</edge>
+<edge source="Shawn R. Jeffery" target="Volker Markl">
+  <data key="d1">14.33131454800459</data>
+</edge>
+<edge source="Shawn R. Jeffery" target="Mehmet Altinel">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="Chang-Shing Perng" target="Aris Anagnostopoulos">
+  <data key="d1">13.51370648986357</data>
+</edge>
+<edge source="Tuomas Sandholm" target="H. Brendan McMahan">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="Tuomas Sandholm" target="Yishay Mansour">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="Tuomas Sandholm" target="Sebastian Thrun">
+  <data key="d1">13.766160907815884</data>
+</edge>
+<edge source="Sham Kakade" target="Michael J. Kearns">
+  <data key="d1">1.5020400357006247</data>
+</edge>
+<edge source="Roberta Cochrane" target="Bruce G. Lindsay">
+  <data key="d1">25.44504653831441</data>
+</edge>
+<edge source="Yishay Mansour" target="Michael J. Kearns">
+  <data key="d1">15.199915529771769</data>
+</edge>
+<edge source="Yishay Mansour" target="Chandra Chekuri">
+  <data key="d1">14.659792171362998</data>
+</edge>
+<edge source="Mehmet Altinel" target="Volker Markl">
+  <data key="d1">28.423936950146622</data>
+</edge>
+</graph></graphml>

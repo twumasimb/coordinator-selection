@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coordsel"
+version = "0.1.0"
+description = "Coordinator selection for multi-team projects on expert collaboration networks"
+requires-python = ">=3.9"
+dependencies = ["networkx>=3.0", "numpy>=1.24", "pandas>=2.0", "matplotlib>=3.7"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

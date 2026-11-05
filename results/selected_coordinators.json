@@ -1,0 +1,362 @@
+{
+  "20/star/Greedy (all seeds)": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Richard R. Muntz",
+    "Sailesh Krishnamurthy"
+  ],
+  "20/star/Influence Greedy": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Richard R. Muntz",
+    "Sailesh Krishnamurthy"
+  ],
+  "20/star/Influence only": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Sailesh Krishnamurthy",
+    "Wei Wang 0010"
+  ],
+  "20/star/Exhaustive (optimal)": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Richard R. Muntz",
+    "Sailesh Krishnamurthy"
+  ],
+  "20/chain/Greedy (all seeds)": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Sailesh Krishnamurthy",
+    "Wei Wang 0010"
+  ],
+  "20/chain/Influence Greedy": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Sailesh Krishnamurthy",
+    "Wei Wang 0010"
+  ],
+  "20/chain/Influence only": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Sailesh Krishnamurthy",
+    "Wei Wang 0010"
+  ],
+  "20/chain/Exhaustive (optimal)": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Sailesh Krishnamurthy",
+    "Wei Wang 0010"
+  ],
+  "20/full/Greedy (all seeds)": [
+    "Avrim Blum",
+    "C. Mohan",
+    "Elliot Anshelevich",
+    "Richard R. Muntz"
+  ],
+  "20/full/Influence Greedy": [
+    "Avrim Blum",
+    "C. Mohan",
+    "Elliot Anshelevich",
+    "Richard R. Muntz"
+  ],
+  "20/full/Influence only": [
+    "Avrim Blum",
+    "Elliot Anshelevich",
+    "Sailesh Krishnamurthy",
+    "Wei Wang 0010"
+  ],
+  "20/full/Exhaustive (optimal)": [
+    "Avrim Blum",
+    "C. Mohan",
+    "Elliot Anshelevich",
+    "Richard R. Muntz"
+  ],
+  "40/star/Greedy (all seeds)": [
+    "H. Brendan McMahan",
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "40/star/Influence Greedy": [
+    "H. Brendan McMahan",
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "40/star/Influence only": [
+    "Avrim Blum",
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "40/star/Exhaustive (optimal)": [
+    "H. Brendan McMahan",
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "40/chain/Greedy (all seeds)": [
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Sham Kakade",
+    "Éva Tardos"
+  ],
+  "40/chain/Influence Greedy": [
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Sham Kakade",
+    "Éva Tardos"
+  ],
+  "40/chain/Influence only": [
+    "Avrim Blum",
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "40/chain/Exhaustive (optimal)": [
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Sham Kakade",
+    "Éva Tardos"
+  ],
+  "40/full/Greedy (all seeds)": [
+    "Avrim Blum",
+    "Richard R. Muntz",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "40/full/Influence Greedy": [
+    "Avrim Blum",
+    "Richard R. Muntz",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "40/full/Influence only": [
+    "Avrim Blum",
+    "Philip S. Yu",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "40/full/Exhaustive (optimal)": [
+    "Avrim Blum",
+    "Richard R. Muntz",
+    "Sailesh Krishnamurthy",
+    "Éva Tardos"
+  ],
+  "60/star/Greedy (all seeds)": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Tim Roughgarden",
+    "Yishay Mansour"
+  ],
+  "60/star/Influence Greedy": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Tim Roughgarden",
+    "Yishay Mansour"
+  ],
+  "60/star/Influence only": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Yishay Mansour",
+    "Éva Tardos"
+  ],
+  "60/star/Exhaustive (optimal)": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Tim Roughgarden",
+    "Yishay Mansour"
+  ],
+  "60/chain/Greedy (all seeds)": [
+    "Elliot Anshelevich",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Satinder P. Singh"
+  ],
+  "60/chain/Influence Greedy": [
+    "Elliot Anshelevich",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Satinder P. Singh"
+  ],
+  "60/chain/Influence only": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Yishay Mansour",
+    "Éva Tardos"
+  ],
+  "60/chain/Exhaustive (optimal)": [
+    "Elliot Anshelevich",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Satinder P. Singh"
+  ],
+  "60/full/Greedy (all seeds)": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Satinder P. Singh",
+    "Tim Roughgarden"
+  ],
+  "60/full/Influence Greedy": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Satinder P. Singh",
+    "Tim Roughgarden"
+  ],
+  "60/full/Influence only": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Yishay Mansour",
+    "Éva Tardos"
+  ],
+  "60/full/Exhaustive (optimal)": [
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Satinder P. Singh",
+    "Tim Roughgarden"
+  ],
+  "80/star/Greedy (all seeds)": [
+    "H. Brendan McMahan",
+    "Hamid Pirahesh",
+    "Yiming Ma",
+    "Éva Tardos"
+  ],
+  "80/star/Influence Greedy": [
+    "H. Brendan McMahan",
+    "Hamid Pirahesh",
+    "Yiming Ma",
+    "Éva Tardos"
+  ],
+  "80/star/Influence only": [
+    "Avrim Blum",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "80/star/Exhaustive (optimal)": [
+    "H. Brendan McMahan",
+    "Hamid Pirahesh",
+    "Yiming Ma",
+    "Éva Tardos"
+  ],
+  "80/chain/Greedy (all seeds)": [
+    "Alina Beygelzimer",
+    "Elliot Anshelevich",
+    "Hamid Pirahesh",
+    "Philip S. Yu"
+  ],
+  "80/chain/Influence Greedy": [
+    "Alina Beygelzimer",
+    "Elliot Anshelevich",
+    "Hamid Pirahesh",
+    "Philip S. Yu"
+  ],
+  "80/chain/Influence only": [
+    "Avrim Blum",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "80/chain/Exhaustive (optimal)": [
+    "Alina Beygelzimer",
+    "Elliot Anshelevich",
+    "Hamid Pirahesh",
+    "Philip S. Yu"
+  ],
+  "80/full/Greedy (all seeds)": [
+    "Alina Beygelzimer",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "80/full/Influence Greedy": [
+    "Alina Beygelzimer",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "80/full/Influence only": [
+    "Avrim Blum",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "80/full/Exhaustive (optimal)": [
+    "Alina Beygelzimer",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "100/star/Greedy (all seeds)": [
+    "Boulos Harb",
+    "Calisto Zuzarte",
+    "Sebastian Thrun",
+    "Yiming Ma"
+  ],
+  "100/star/Influence Greedy": [
+    "Boulos Harb",
+    "Hamid Pirahesh",
+    "Sebastian Thrun",
+    "Yiming Ma"
+  ],
+  "100/star/Influence only": [
+    "Avrim Blum",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "100/star/Exhaustive (optimal)": [
+    "Boulos Harb",
+    "Calisto Zuzarte",
+    "Sebastian Thrun",
+    "Yiming Ma"
+  ],
+  "100/chain/Greedy (all seeds)": [
+    "Alina Beygelzimer",
+    "Boulos Harb",
+    "Calisto Zuzarte",
+    "Sheng Ma"
+  ],
+  "100/chain/Influence Greedy": [
+    "Alina Beygelzimer",
+    "Boulos Harb",
+    "Hamid Pirahesh",
+    "Philip S. Yu"
+  ],
+  "100/chain/Influence only": [
+    "Avrim Blum",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "100/chain/Exhaustive (optimal)": [
+    "Alina Beygelzimer",
+    "Boulos Harb",
+    "Calisto Zuzarte",
+    "Sheng Ma"
+  ],
+  "100/full/Greedy (all seeds)": [
+    "Alina Beygelzimer",
+    "Boulos Harb",
+    "Hamid Pirahesh",
+    "Philip S. Yu"
+  ],
+  "100/full/Influence Greedy": [
+    "Alina Beygelzimer",
+    "Boulos Harb",
+    "Hamid Pirahesh",
+    "Philip S. Yu"
+  ],
+  "100/full/Influence only": [
+    "Avrim Blum",
+    "Hamid Pirahesh",
+    "Philip S. Yu",
+    "Éva Tardos"
+  ],
+  "100/full/Exhaustive (optimal)": [
+    "Alina Beygelzimer",
+    "Boulos Harb",
+    "Hamid Pirahesh",
+    "Philip S. Yu"
+  ]
+}

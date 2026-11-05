@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Yun Chi">
+  <data key="d0">DM</data>
+</node>
+<node id="C. Mohan">
+  <data key="d0">DB</data>
+</node>
+<node id="Elliot Anshelevich">
+  <data key="d0">T</data>
+</node>
+<node id="Tom Wexler">
+  <data key="d0">T</data>
+</node>
+<node id="Tuomas Sandholm">
+  <data key="d0">AI</data>
+</node>
+<node id="H. Brendan McMahan">
+  <data key="d0">AI</data>
+</node>
+<node id="Wei Wang 0010">
+  <data key="d0">DM</data>
+</node>
+<node id="Jun Huan">
+  <data key="d0">DM</data>
+</node>
+<node id="Richard R. Muntz">
+  <data key="d0">DM</data>
+</node>
+<node id="Jon M. Kleinberg">
+  <data key="d0">T</data>
+</node>
+<node id="Philip S. Yu">
+  <data key="d0">DM</data>
+</node>
+<node id="John Langford">
+  <data key="d0">AI</data>
+</node>
+<node id="Avrim Blum">
+  <data key="d0">AI</data>
+</node>
+<node id="Sailesh Krishnamurthy">
+  <data key="d0">DB</data>
+</node>
+<node id="Éva Tardos">
+  <data key="d0">T</data>
+</node>
+<node id="Yishay Mansour">
+  <data key="d0">AI</data>
+</node>
+<node id="Hamid Pirahesh">
+  <data key="d0">DB</data>
+</node>
+<node id="Mehmet Altinel">
+  <data key="d0">DB</data>
+</node>
+<node id="Berthold Reinwald">
+  <data key="d0">DB</data>
+</node>
+<node id="Anirban Dasgupta">
+  <data key="d0">T</data>
+</node>
+<edge source="Yun Chi" target="John Langford">
+  <data key="d1">14.58950656636491</data>
+</edge>
+<edge source="Yun Chi" target="Anirban Dasgupta">
+  <data key="d1">14.210824939436439</data>
+</edge>
+<edge source="Yun Chi" target="Jon M. Kleinberg">
+  <data key="d1">14.669832972077009</data>
+</edge>
+<edge source="Yun Chi" target="Philip S. Yu">
+  <data key="d1">29.940384737982903</data>
+</edge>
+<edge source="Yun Chi" target="Richard R. Muntz">
+  <data key="d1">1.460514152747673</data>
+</edge>
+<edge source="Yun Chi" target="Jun Huan">
+  <data key="d1">13.89669131709805</data>
+</edge>
+<edge source="C. Mohan" target="Hamid Pirahesh">
+  <data key="d1">28.521189277062337</data>
+</edge>
+<edge source="C. Mohan" target="Mehmet Altinel">
+  <data key="d1">1.46618003315058</data>
+</edge>
+<edge source="C. Mohan" target="Berthold Reinwald">
+  <data key="d1">1.5163840367206425</data>
+</edge>
+<edge source="C. Mohan" target="Sailesh Krishnamurthy">
+  <data key="d1">1.4542027922988652</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Anirban Dasgupta">
+  <data key="d1">1.5020400357006247</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Jon M. Kleinberg">
+  <data key="d1">1.5419163585362743</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Tom Wexler">
+  <data key="d1">1.4303200306005355</data>
+</edge>
+<edge source="Elliot Anshelevich" target="Éva Tardos">
+  <data key="d1">1.5140172765523396</data>
+</edge>
+<edge source="Tom Wexler" target="Anirban Dasgupta">
+  <data key="d1">1.5020400357006247</data>
+</edge>
+<edge source="Tom Wexler" target="Jon M. Kleinberg">
+  <data key="d1">15.24904373326533</data>
+</edge>
+<edge source="Tom Wexler" target="Éva Tardos">
+  <data key="d1">1.4542027922988652</data>
+</edge>
+<edge source="Tuomas Sandholm" target="Avrim Blum">
+  <data key="d1">1.536035318118067</data>
+</edge>
+<edge source="Tuomas Sandholm" target="H. Brendan McMahan">
+  <data key="d1">12.994453652938924</data>
+</edge>
+<edge source="Tuomas Sandholm" target="Yishay Mansour">
+  <data key="d1">14.500573760040801</data>
+</edge>
+<edge source="H. Brendan McMahan" target="Avrim Blum">
+  <data key="d1">1.532807917888563</data>
+</edge>
+<edge source="H. Brendan McMahan" target="Philip S. Yu">
+  <data key="d1">15.03847379829147</data>
+</edge>
+<edge source="Wei Wang 0010" target="Anirban Dasgupta">
+  <data key="d1">14.659792171362998</data>
+</edge>
+<edge source="Wei Wang 0010" target="Philip S. Yu">
+  <data key="d1">1.5429921586127755</data>
+</edge>
+<edge source="Wei Wang 0010" target="Jun Huan">
+  <data key="d1">1.5113636363636362</data>
+</edge>
+<edge source="Wei Wang 0010" target="Richard R. Muntz">
+  <data key="d1">1.5404102384291725</data>
+</edge>
+<edge source="Wei Wang 0010" target="Berthold Reinwald">
+  <data key="d1">14.615325768200943</data>
+</edge>
+<edge source="Wei Wang 0010" target="Mehmet Altinel">
+  <data key="d1">14.547908963406858</data>
+</edge>
+<edge source="Jun Huan" target="Philip S. Yu">
+  <data key="d1">43.410907815886766</data>
+</edge>
+<edge source="Richard R. Muntz" target="John Langford">
+  <data key="d1">14.44606655616473</data>
+</edge>
+<edge source="Richard R. Muntz" target="Philip S. Yu">
+  <data key="d1">1.5616393599387988</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="John Langford">
+  <data key="d1">28.75851077393854</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Anirban Dasgupta">
+  <data key="d1">1.5476539589442813</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Éva Tardos">
+  <data key="d1">15.395065663649113</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Philip S. Yu">
+  <data key="d1">15.065727400229502</data>
+</edge>
+<edge source="Jon M. Kleinberg" target="Sailesh Krishnamurthy">
+  <data key="d1">14.626800969016955</data>
+</edge>
+<edge source="Philip S. Yu" target="Berthold Reinwald">
+  <data key="d1">15.044211398699476</data>
+</edge>
+<edge source="Philip S. Yu" target="Mehmet Altinel">
+  <data key="d1">15.039908198393471</data>
+</edge>
+<edge source="Philip S. Yu" target="Sailesh Krishnamurthy">
+  <data key="d1">15.042776998597475</data>
+</edge>
+<edge source="John Langford" target="Avrim Blum">
+  <data key="d1">1.5510247991839856</data>
+</edge>
+<edge source="John Langford" target="Yishay Mansour">
+  <data key="d1">14.765937778911129</data>
+</edge>
+<edge source="John Langford" target="Anirban Dasgupta">
+  <data key="d1">14.602416167282927</data>
+</edge>
+<edge source="Avrim Blum" target="Yishay Mansour">
+  <data key="d1">1.5396213183730714</data>
+</edge>
+<edge source="Avrim Blum" target="Anirban Dasgupta">
+  <data key="d1">14.563687364528878</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Hamid Pirahesh">
+  <data key="d1">1.4812412342215988</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Mehmet Altinel">
+  <data key="d1">1.4392850312380467</data>
+</edge>
+<edge source="Sailesh Krishnamurthy" target="Berthold Reinwald">
+  <data key="d1">1.5054825959454292</data>
+</edge>
+<edge source="Éva Tardos" target="Yishay Mansour">
+  <data key="d1">14.648316970546983</data>
+</edge>
+<edge source="Éva Tardos" target="Anirban Dasgupta">
+  <data key="d1">1.5315886778018615</data>
+</edge>
+<edge source="Hamid Pirahesh" target="Mehmet Altinel">
+  <data key="d1">1.4940791151345147</data>
+</edge>
+<edge source="Hamid Pirahesh" target="Berthold Reinwald">
+  <data key="d1">1.4617333928343745</data>
+</edge>
+<edge source="Mehmet Altinel" target="Berthold Reinwald">
+  <data key="d1">14.146563814866758</data>
+</edge>
+</graph></graphml>
